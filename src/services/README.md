@@ -1,0 +1,1 @@
+Nơi viết code kết nối với api, xử lý kết quả từ API trả về

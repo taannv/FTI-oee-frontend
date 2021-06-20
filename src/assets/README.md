@@ -1,0 +1,1 @@
+Lưu trữ các dữ liệu đa phương tiện: ảnh, logo, các thư viện js, css từ bên ngoài cài vào không qua npm
